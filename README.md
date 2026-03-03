@@ -5,15 +5,12 @@
 ## 📝 Présentation Générale
 Système d'analyse des tendances de mode utilisant le modèle segformer_clothes
 
-* **Objectif :** Simplifier telle tâche ou automatiser tel processus.
-* **Public cible :** Développeurs, étudiants, entreprises, etc.
+* **Objectif :** Utiliser un modèle deja entrainé qui fait de la segmentation vestimentaire.
 
 ---
 
 ## ✨ Fonctionnalités Clés
 * **Fonctionnalité 1 :** Description rapide de l'avantage.
-* **Fonctionnalité 2 :** Pourquoi c'est une tuerie.
-* **Interface Intuitive :** Un point sur l'expérience utilisateur.
 
 ---
 
@@ -24,7 +21,7 @@ Voici les technologies utilisées pour construire ce projet :
 | :--- | :--- |
 
 | **Backend** | Python |
-| **Outils** | Git |
+| **Outils** | Git | UV |
 
 
 ### Étapes
