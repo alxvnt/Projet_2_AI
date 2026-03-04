@@ -1,0 +1,9 @@
+ipykernel
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+pillow
+python-dotenv
+requests
+tqdm
